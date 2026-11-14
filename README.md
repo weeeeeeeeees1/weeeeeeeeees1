@@ -10,7 +10,7 @@
 
 ## About
 
-I build fast, conversion-focused websites and online stores for small businesses. I run **ByteClub Dev**, working with a variety of businesses, hospitality, wellness and retail clients from Costa Rica to the US, Europe and beyond.
+I build fast, conversion-focused websites and online stores for small businesses. Experience on working with a variety of businesses, hospitality, wellness and retail clients from Costa Rica to the US and Europe.
 
 - Full-stack e-commerce: catalog, cart, checkout, order management, admin panels
 - Business and brand sites that turn visits into WhatsApp messages, calls and leads
