@@ -59,13 +59,6 @@ I build fast, conversion-focused websites and online stores for small businesses
   <img src="https://img.shields.io/badge/Resend-Email-000000?style=flat-square" alt="Resend"/>
 </p>
 
-## GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=weeeeeeeeees1&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weeeeeeeeees1&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-
 ## Work with me
 
 Need a website or online store? Reach out.
