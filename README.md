@@ -14,8 +14,6 @@ I build fast, conversion-focused websites and online stores for small businesses
 
 - Full-stack e-commerce: catalog, cart, checkout, order management, admin panels
 - Business and brand sites that turn visits into WhatsApp messages, calls and leads
-- Shopify theme customization and WordPress builds
-- Deploy pipelines on Vercel with GitHub auto-deploys
 
 ## Featured work
 
