@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#3b2307"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+      .m { font-family: 'JetBrains Mono', Consolas, monospace; }
+    </style>
+  </defs>
+  <rect width="560" height="300" rx="16" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="559" height="299" rx="16" fill="none" stroke="#334155"/>
+  <circle cx="480" cy="70" r="34" fill="#f59e0b" opacity=".85"/>
+  <text x="32" y="52" class="m" font-size="13" fill="#fbbf24">BUSINESS SITE  /  LIVE</text>
+  <text x="32" y="98" class="t" font-size="34" font-weight="800" fill="#f8fafc">Soler</text>
+  <text x="32" y="132" class="t" font-size="16" fill="#cbd5e1">Solar energy company website, Costa Rica</text>
+  <text x="32" y="176" class="t" font-size="14" fill="#94a3b8">Video hero, product catalog, about section,</text>
+  <text x="32" y="198" class="t" font-size="14" fill="#94a3b8">lead-capture contact form, SEO and social metadata</text>
+  <g class="m" font-size="12">
+    <rect x="32" y="232" width="96" height="28" rx="14" fill="#1e293b"/><text x="46" y="251" fill="#e2e8f0">WordPress</text>
+    <rect x="136" y="232" width="74" height="28" rx="14" fill="#1e293b"/><text x="150" y="251" fill="#e2e8f0">SEO/OG</text>
+    <rect x="218" y="232" width="86" height="28" rx="14" fill="#1e293b"/><text x="232" y="251" fill="#e2e8f0">Site Kit</text>
+  </g>
+  <text x="528" y="251" text-anchor="end" class="m" font-size="13" fill="#fbbf24">solercrc.com  -&gt;</text>
+</svg>
